@@ -29,7 +29,6 @@ export const metadata: Metadata = {
   },
   description:
     "Interactive learning platform for Claude Code. Master slash commands, skills, hooks, MCP servers, and more through hands-on tutorials.",
-  icons: { icon: "/favicon.svg" },
 };
 
 const themeScript = `(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d){document.documentElement.classList.add('dark');}document.documentElement.style.colorScheme=d?'dark':'light';}catch(e){}})();`;
