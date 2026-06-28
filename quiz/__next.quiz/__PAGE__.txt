@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[96199,["/claude-hjahouse/_next/static/chunks/40gsar4g5ez4a.js","/claude-hjahouse/_next/static/chunks/14mrh2-p_w84d.js","/claude-hjahouse/_next/static/chunks/3ag0o3dr6hn0o.js"],"default"]
+3:I[29864,["/claude-hjahouse/_next/static/chunks/40gsar4g5ez4a.js","/claude-hjahouse/_next/static/chunks/14mrh2-p_w84d.js","/claude-hjahouse/_next/static/chunks/3ag0o3dr6hn0o.js"],"default"]
+4:I[97367,["/claude-hjahouse/_next/static/chunks/40gsar4g5ez4a.js","/claude-hjahouse/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","children":["$","div",null,{"className":"mx-auto w-full max-w-6xl px-4 sm:px-6 ","children":[["$","$L2",null,{"className":"pb-10 pt-14","children":[["$","div",null,{"className":"mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-accent","children":"Self-assessment"}],["$","h1",null,{"className":"text-4xl font-semibold sm:text-5xl","children":"Find Your Level"}],["$","p",null,{"className":"mt-4 max-w-2xl text-lg text-fg-subtle","children":"Answer 10 quick questions about your Claude Code experience and get a personalized learning recommendation."}]]}],["$","$L2",null,{"className":"pb-20","children":["$","$L3",null,{}]}]]}]}],[["$","script","script-0",{"src":"/claude-hjahouse/_next/static/chunks/3ag0o3dr6hn0o.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"di95GDFSlaQdFBgtWWPXW"}
+6:null

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Far\u002Flearn\u002F[slug]","\u002Far\u002Fquiz\u002Fresult\u002F[level]","\u002Fcertificate\u002F[type]","\u002Flearn\u002F[slug]","\u002Fquiz\u002Fresult\u002F[level]","\u002Fshare\u002Fsnippet\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
