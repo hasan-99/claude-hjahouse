@@ -97,6 +97,21 @@ const RELATED: Record<string, { title: string; slug: string }[]> = {
 };
 
 /* =========================================================================
+   Static generation
+   ========================================================================= */
+
+// Pre-generate the linked snippet slugs (and a per-module overview) so the
+// route is fully static-exportable; other slugs use the fallback locally.
+export function generateStaticParams() {
+  const slugs = new Set<string>([
+    ...Object.keys(KNOWN_SNIPPETS),
+    ...Object.values(RELATED).flatMap((list) => list.map((r) => r.slug)),
+    ...MODULES.map((m) => `${m.slug}--overview`),
+  ]);
+  return Array.from(slugs).map((slug) => ({ slug }));
+}
+
+/* =========================================================================
    Page component
    ========================================================================= */
 
